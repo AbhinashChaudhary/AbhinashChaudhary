@@ -1,0 +1,21 @@
+.sidebar__hamburger {
+ padding: 30px 15px;
+ position: fixed;
+ top: 0;
+ left: 0;
+ cursor: pointer;
+ }
+ .sidebar__hamburger__lines {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 30px;
+    height: 15px;
+ }
+ .sidebar__hamburger__line {
+    width: 30px;
+    height: 2px;
+    background: #000;
+
+ }
+ 
